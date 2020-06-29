@@ -1,2 +1,2 @@
 # book_viewer
-A mobile-friendly ebook reading app using Ruby Sinatra
+A mobile-friendly ebook reading app using Ruby Sinatra, HTML and CSS.
